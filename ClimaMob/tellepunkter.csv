@@ -1,0 +1,156 @@
+SENSOR_ID,SENSOR_NAVN,LATITUDE,LONGITUDE,STREKNING_NAVN,FORMAT,SENSOR_STATUS,SENSOR_TYPE,OPPLOSNING
+300022,Klemetsrud,6639461.0,267073.16,EV6 HP 1 Meter 1191,Datainn,Ute av drift,Bil,Enkeltkjøret
+300025,Granfoss NORD,6651245.5,257096.33,RV150 HP 1 Meter 12178,Nortraf,Ute av drift,Bil,15 minutter
+300026,Påkj granfoss Nord,6651222.5,257081.31,RV150 HP 92 Meter 21222,Nortraf,Ute av drift,Bil,15 minutter
+300027,Avkj Granfoss nord,6651241.5,257070.92,RV150 HP 92 Meter 12020,Nortraf,Ute av drift,Bil,15 minutter
+300038,VESTBANEKRYSSET,6649293.5,261140.28,EV18 HP 94 Meter 14680,Nortraf,Ute av drift,Bil,15 minutter
+300049,PÅKJ. TIL RV 4,6652460.5,266129.30,RV4 HP 82 Meter 23150,Datainn,OK,Bil,Enkeltkjøret
+300051,AVKJ. FRA RV 4,6652477.5,266088.28,RV4 HP 82 Meter 32075,Datainn,OK,Bil,Enkeltkjøret
+300055,Bjerke,6652475.0,266134.80,RV4 HP 3 Meter 3146,Datainn,OK,Bil,Enkeltkjøret
+300058,PÅKJ FRA JERIKOVEIEN,6651481.5,270193.16,EV6 HP 90 Meter 21270,Nortraf,Ute av drift,Bil,15 minutter
+300059,AVKJ TIL JERIKOVEI,6651435.0,270204.00,EV6 HP 90 Meter 12320,Nortraf,Ute av drift,Bil,15 minutter
+300060,E6 JERIKOVEIEN,6651461.0,270195.06,EV6 HP 2 Meter 3217,Nortraf,Ute av drift,Bil,15 minutter
+300075,MUNKEDAMSVEIEN,6649300.5,261105.72,RV162 HP 1 Meter 4225,Nortraf,Ute av drift,Bil,15 minutter
+300079,TEISEN 2002,6649780.0,266222.34,EV6 HP 51 Meter 1158,Nortraf,Ute av drift,Bil,15 minutter
+300085,ØKERN V/ALCATEL,6650798.5,266149.88,RV163 HP 1 Meter 1100,Nortraf,Ute av drift,Bil,15 minutter
+300093,Gaustad,6653196.0,260512.61,RV150 HP 1 Meter 8145,Datainn,OK,Bil,Enkeltkjøret
+300094,RV159 V/KARIHAUGEN,6651644.5,272481.30,RV159 HP 1 Meter 289,Nortraf,ute av drift,Bil,15 minutter
+300100,Økerntunellen mot Sentrum Datter,6650979.5,265508.62,RV163 HP 1 Meter 20200,Datainn,OK,Bil,Enkeltkjøret
+300107,Kong Håkon 5.s gt Nordgående,6648519.0,263025.16,RV162 HP 1 Meter 870,Datainn,OK,Bil,Enkeltkjøret
+300108,Kong Håkon 5.s gt Sydgående,6648524.0,263012.16,RV162 HP 1 Meter 10110,Datainn,OK,Bil,Enkeltkjøret
+300109,Økerntunellen mot Grorud Datter,6650969.0,265512.72,RV163 HP 1 Meter 425,Datainn,OK,Bil,Enkeltkjøret
+300139,Dr. Eufemias Gt. Vestgående Datter,6648860.0,262658.94,EV18 HP 50 Meter 10470,Datainn,OK,Bil,Enkeltkjøret
+300140,Dr. Eufemias Gt. Østgående Datter,6648843.0,262648.53,EV18 HP 50 Meter 552,Datainn,OK,Bil,Enkeltkjøret
+300155,Rv 150 Økern,6650576.0,265546.44,RV150 HP 1 Meter 745,Datainn,OK,Bil,Enkeltkjøret
+300156,E6 Ulven,6650257.5,265979.84,EV6 HP 1 Meter 13130,Datainn,OK,Bil,Enkeltkjøret
+300166,Rv 150 Ulvensplitten,6650212.0,265718.20,RV150 HP 1 Meter 330,Datainn,OK,Bil,Enkeltkjøret
+300167,Rv 4 Bjerke Total,6652524.5,266280.62,RV4 HP 3 Meter 3300,Datainn,OK,Bil,Enkeltkjøret
+300224,E18-FROGNERSTR V/SK,6649740.5,259565.25,EV18 HP 2 Meter 4481,Datainn,OK,Bil,Enkeltkjøret
+300318,MORTENSRUD,6641760.0,266811.88,EV6 HP 1 Meter 3525,Nortraf,Ute av drift,Bil,15 minutter
+300320,TR.HEIMSVN V/AKERSY,6652272.0,265288.38,RV4 HP 3 Meter 2275,Nortraf,Ute av drift,Bil,15 minutter
+300348,E18-MOSSEV V/FISKEV,6641336.5,263418.80,EV18 HP 1 Meter 1800,Datainn,OK,Bil,Enkeltkjøret
+300349,E6 V/KARIHAUGEN,6651711.0,272890.53,EV6 HP 2 Meter 6011,Nortraf,Ute av drift,Bil,15 minutter
+302137,VATERLANDTUNNELEN,6649395.0,262611.78,RV162 HP 1 Meter 2099,Nortraf,Ute av drift,Bil,15 minutter
+303026,GRANFOSSTUNNELEN,6650387.0,255783.00,RV150 HP 1 Meter 13871,Nortraf,Ute av drift,Bil,15 minutter
+300001,E6 Manglerud,6647796.0,266146.88,EV6 HP 1 Meter 10300,Datainn,OK,Bil,Enkeltkjøret
+300016,R3 Grefsen,6652392.0,264383.80,RV150 HP 1 Meter 3097,Datainn,OK,Bil,Enkeltkjøret
+300029,E18 Bjørvikatunnelen,6648952.0,261653.36,EV18 HP 2 Meter 1950,Nortraf,Ute av drift,Bil,15 minutter
+300030,E6 Helsfyr,6649045.0,265020.30,EV6 HP 51 Meter 2578,Datainn,OK,Bil,Enkeltkjøret
+300039,E6 Skullerud,6643481.5,266588.34,EV6 HP 1 Meter 5272,Datainn,OK,Bil,Enkeltkjøret
+300047,R1 Pilestredet,6649795.0,261917.06,RV162 HP 1 Meter 2998,Datainn,OK,Bil,Enkeltkjøret
+300072,R3 Smestadtunnelen (Smestad Ø),6652591.5,259362.66,RV150 HP 1 Meter 9520,Datainn,Ute av drift,Bil,Enkeltkjøret
+300074,RS Ullevål sykkel,6653556.0,261771.27,RV150 HP 1 Meter 6766,Datainn,OK,Sykkel,Enkeltkjøret
+300076,RS Aker sykehus sykkel,6652306.0,265408.90,RV4 HP 3 Meter 2400,Datainn,OK,Sykkel,Enkeltkjøret
+300077,RS Frognerstanda sykkel,6649469.0,259745.50,EV18 HP 2 Meter 4155,Datainn,OK,Sykkel,Enkeltkjøret
+300083,R3 Smestad brannstasjon (Smestad V),6651930.5,258283.16,RV150 HP 1 Meter 10791,Datainn,OK,Bil,Enkeltkjøret
+300086,Rv 163 Grorud stasjon,6653164.0,270359.88,RV163 HP 1 Meter 6110,Nortraf,ute av drift,Bil,15 minutter
+300096,E18 Mastemyr,6639803.0,263369.03,EV18 HP 1 Meter 200,Datainn,OK,Bil,Enkeltkjøret
+300097,Rv 163 Østre Akerv./Bygr.,6652581.5,273688.56,RV163 HP 1 Meter 9761,Datainn,OK,Bil,Enkeltkjøret
+300098,E6 Svartdalstunnelen,6647606.5,265287.90,EV6 HP 50 Meter 500,Nortraf,OK,Bil,15 minutter
+300099,R3 Tåsentunnelen,6653785.0,262745.53,RV150 HP 1 Meter 5740,Datainn,OK,Bil,Enkeltkjøret
+300141,E18 Kongshavn,6647329.0,262733.28,EV18 HP 1 Meter 8285,Datainn,OK,Bil,Enkeltkjøret
+300142,E6 Bryn,6648712.0,266261.53,EV6 HP 1 Meter 11281,Datainn,OK,Bil,Enkeltkjøret
+300144,E6 Alnabru Furuset-Ulven,6650245.0,266983.60,EV6 HP 1 Meter 20277,Datainn,OK,Bil,Enkeltkjøret
+300145,E6 Alnabru Furuset-Helsfyr,6650200.5,266921.20,EV6 HP 51 Meter 341,Datainn,OK,Bil,Enkeltkjøret
+300147,E6 Alnabru Helsfyr-Furuset,6650179.5,266876.78,EV6 HP 51 Meter 390,Datainn,OK,Bil,Enkeltkjøret
+300148,E6 Alnabru Ulven-Furuset,6650160.0,266909.60,EV6 HP 1 Meter 14080,Datainn,OK,Bil,Enkeltkjøret
+300149,Bryn sykkel,6647886.5,266132.10,EG6 HP1 Meter 10440,Datainn,OK,Sykkel,Enkeltkjøret
+300151,E6 Ulvensplitten Økern-Alnabru,6650230.5,265796.56,EV6 HP 87 Meter 34560,Datainn,OK,Bil,Enkeltkjøret
+300152,E6 Ulvensplitten Alnabru-Teisen,6650243.5,265818.70,EV6 HP 1 Meter 21460,Datainn,OK,Bil,Enkeltkjøret
+300153,E6 Ulvensplitten Teisen-Alnabru,6650220.5,265796.80,EV6 HP 1 Meter 12950,Datainn,OK,Bil,Enkeltkjøret
+300154,E6 Ulvensplitten Alnabru-Økern,6650255.0,265818.38,EV6 HP 87 Meter 43125,Datainn,OK,Bil,Enkeltkjøret
+300160,E6 Lodalen Helsfyr-Sentrum,6648119.5,264190.56,EV6 HP 51 Meter 4018,Datainn,OK,Bil,Enkeltkjøret
+300162,E6 Lodalen Helsfyr-Lodalen,6648133.0,264171.30,EV6 HP 75 Meter 12123,Datainn,OK,Bil,Enkeltkjøret
+300163,E6 Lodalen Sentrum-Lodalen,6648110.5,264201.50,EV6 HP 75 Meter 32014,Datainn,OK,Bil,Enkeltkjøret
+300164,E6 Lodalen,6648134.5,264200.66,EV6 HP 51 Meter 4000,Datainn,OK,Bil,Enkeltkjøret
+300165,Rv 150 Hovin,6649885.5,265733.30,RV150 HP 1 Meter 0,Datainn,OK,Bil,Enkeltkjøret
+300170,RS Kong Haakon 5’gate sykkel,6648531.0,263039.06,RG162 HP 1 Meter 880,Datainn,OK,Sykkel,Enkeltkjøret
+300225,E18 Maritim,6650272.5,257809.02,EV18 HP 2 Meter 6605,Datainn,OK,Bil,Enkeltkjøret
+300231,Rv 4 Ammerud,6654001.0,269821.10,RV4 HP 3 Meter 7500,Datainn,OK,Bil,Enkeltkjøret
+300233,R3 v/Nydalsbrua,6653775.0,263711.22,RV150 HP 1 Meter 4758,Datainn,OK,Bil,Enkeltkjøret
+302256,E6 Ekebergtunnelen,6647842.0,263693.72,EV6 HP 51 Meter 4602,Datainn,Ute av drift,Bil,Enkeltkjøret
+302257,R3 Økern-Sinsen,6651391.5,265386.84,RV150 HP 1 Meter 1608,Datainn,OK,Bil,Enkeltkjøret
+303027,E18 Festningstunnelen,6649020.0,261637.92,EV18 HP 2 Meter 2020,Nortraf,NULL,Bil,15 minutter
+300157,E6 Alnabru S,6650223.0,267415.70,EV6 HP 2 Meter 100,Datainn,OK,Bil,Enkeltkjøret
+300158,E6 Alnabru N,6650221.0,267435.66,EV6 HP 2 Meter 120,Datainn,OK,Bil,Enkeltkjøret
+100002,E18 Elvestad Vest,,,NULL,NULL,NULL,Bil,NULL
+100008,E6 Storebaug,,,NULL,NULL,NULL,Bil,NULL
+200006,E6/E18 Vinterbru,,,NULL,NULL,NULL,Bil,NULL
+200009,E6 Ski Flatåser,,,NULL,NULL,NULL,Bil,NULL
+200015,Rv 22 Kringen,,,NULL,NULL,NULL,Bil,NULL
+200160,Rv 4 Gjelleråsen,,,NULL,NULL,NULL,Bil,NULL
+200200,E6 Kløfta S,,,NULL,NULL,NULL,Bil,NULL
+200209,E6 Hvam S,,,NULL,NULL,NULL,Bil,NULL
+200210,E6 Hvam N,,,NULL,NULL,NULL,Bil,NULL
+200221,E18 Holstad klima,,,NULL,NULL,NULL,Bil,NULL
+200225,Rv 159 Visperud,,,NULL,NULL,NULL,Bil,NULL
+200228,E6 Follotunnelen,,,NULL,NULL,NULL,Bil,NULL
+200229,Rv 159 Rælingstunnelen,,,NULL,NULL,NULL,Bil,NULL
+200244,Rv 23 Oslofjordtunnelen,,,NULL,NULL,NULL,Bil,NULL
+200245,Rv 23 Frogntunnelen,,,NULL,NULL,NULL,Bil,NULL
+200801,E18 Startour,,,NULL,NULL,NULL,Bil,NULL
+200804,E18 Ramstadsletta,,,NULL,NULL,NULL,Bil,NULL
+202188,Rv 22 Statoil (Fetsund),,,NULL,NULL,NULL,Bil,NULL
+202196,Fv 22 Gjellerosen,,,NULL,NULL,NULL,Bil,NULL
+209570,E16 Brovoll,,,NULL,NULL,NULL,Bil,NULL
+209905,Fv 120 Kirkebygda,,,NULL,NULL,NULL,Bil,NULL
+66921,Torggata Fotgjenger,,,Torggata Fotgjenger,InfraC,,Fotgj,Enkelt
+66923,Torggata Syklist,,,Torggata Syklist,InfraC,,Sykkel,Enkelt
+66925,Ensjøveien,,,Ensjøveien,InfraC,,Bil,Enkelt
+66927,Slemdalsveien,,,Slemdalsveien,InfraC,,Bil,Enkelt
+66929,KV168 Sørkedalsveien ved Borgen stasjon,,,KV168 Sørkedalsveien ved Borgen stasjon,InfraC,,Bil,Enkelt
+66931,Ring 2 ved Marienlyst,,,Ring 2 ved Marienlyst,InfraC,,Bil,Enkelt
+66933,Ring 2 ved Frognerparken,,,Ring 2 ved Frognerparken,InfraC,,Bil,Enkelt
+66935,Østensjøveien nr 5,,,Østensjøveien nr 5,InfraC,,Bil,Enkelt
+66937,KV160 Vækerøveien ved Ullernchausseen,,,Ensjøveien,InfraC,,Bil,Enkelt
+66939,Ring 2 ved Vøyenbrua,,,Ring 2 ved Vøyenbrua,InfraC,,Bil,Enkelt
+75985,Torggata Kjøretøy,,,Torggata Kjøretøy,InfraC,,Bil,Enkelt
+76931,Sørkedalsveien ved Makrellbekken,,,Sørkedalsveien ved Makrellbekken,InfraC,,Bil,Enkelt
+83231,Bygdøy alle,,,Bygdøy alle,InfraC,,Bil,Enkelt
+83233,Nylandsveien,,,Nylandsveien,InfraC,,Bil,Enkelt
+84239,Maridalsveien,,,Maridalsveien,InfraC,,Bil,Enkelt
+84240,Finnmarksgata,,,Finnmarksgata,InfraC,,Bil,Enkelt
+85167,Hellerudveien,,,Hellerudveien,InfraC,,Bil,Enkelt
+85168,General Ruges vei,,,General Ruges vei,InfraC,,Bil,Enkelt
+85169,Tvetenveien ved Haugerud,,,Tvetenveien ved Haugerud,InfraC,,Bil,Enkelt
+85461,Plogveien,,,Plogveien,InfraC,,Bil,Enkelt
+85462,Enebakkveien,,,Enebakkveien,InfraC,,Bil,Enkelt
+85468,Østensjøveien 50 Brynseng,,,Østensjøveien 50 Brynseng,InfraC,,Bil,Enkelt
+85772,Lambertseterveien,,,Lambertseterveien,InfraC,,Bil,Enkelt
+85977,Vekterveien 6,,,Vekterveien 6,InfraC,,Bil,Enkelt
+95132,Østensjøveien ved Østensjø skole,,,Østensjøveien ved Østensjø skole,InfraC,,Sykkel,Enkelt
+10000010,Akerselva ved Vøyenbrua,,,Akerselva ved Vøyenbrua,ECOS,,Sykkel,enkelt
+10000030,Bislettgata 6,,,Bislettgata 6,ECOS,,Sykkel,enkelt
+10000060,Bispegata,,,Bispegata,ECOS,,Sykkel,enkelt
+10000090,Bygdøy alle 13,,,Bygdøy alle 13,ECOS,,Sykkel,enkelt
+10000120,Bærumsveien 22,,,Bærumsveien 22,ECOS,,Sykkel,enkelt
+10000150,Chr Michelsens gt nordside,,,Chr Michelsens gt nordside,ECOS,,Sykkel,enkelt
+10000180,Chr Michelsens gt sydside,,,Chr Michelsens gt sydside,ECOS,,Sykkel,enkelt
+10000210,Ekebergvn 160,,,Ekebergvn 160,ECOS,,Sykkel,enkelt
+10000240,Grenseveien gang og sykkelbro,,,Grenseveien gang og sykkelbro,ECOS,,Sykkel,enkelt
+10000270,Griffenfeldts gate,,,Griffenfeldts gate,ECOS,,Sykkel,enkelt
+10000300,Hoffsveien,,,Hoffsveien,ECOS,,Sykkel,enkelt
+10000330,Holmenkollvn 42,,,Holmenkollvn 42,ECOS,,Sykkel,enkelt
+10000360,Jon Smestads vei 4,,,Jon Smestads vei 4,ECOS,,Sykkel,enkelt
+10000390,Kierschowsgate 10,,,Kierschowsgate 10,ECOS,,Sykkel,enkelt
+10000420,Kongsveien,,,Kongsveien,ECOS,,Sykkel,enkelt
+10000450,Maridalsvn nord for Fredensborgvn,,,Maridalsvn nord for Fredensborgvn,ECOS,,Sykkel,enkelt
+10000480,Maridalsvn ved Korsvollbakken,,,Maridalsvn ved Korsvollbakken,ECOS,,Sykkel,enkelt
+10000510,Monolittvn ved Frognerparken,,,Monolittvn ved Frognerparken,ECOS,,Sykkel,enkelt
+10000540,Nordstrandveien 59,,,Nordstrandveien 59,ECOS,,Sykkel,enkelt
+10000570,Ring 2 Kirkevn ved Sigyns gt.,,,Ring 2 Kirkevn ved Sigyns gt.,ECOS,,Sykkel,enkelt
+10000590,Ring 2 Marienlyst ved Schønings gt,,,Ring 2 Marienlyst ved Schønings gt,ECOS,,Sykkel,enkelt
+10000610,Rådhusgata 28,,,Rådhusgata 28,ECOS,,Sykkel,enkelt
+10000640,Thorvald Meyers gt. 10,,,Thorvald Meyers gt. 10,ECOS,,Sykkel,enkelt
+10000670,Trasop skole,,,Trasop skole,ECOS,,Sykkel,enkelt
+10000700,Tvetenveien,,,Tvetenveien,ECOS,,Sykkel,enkelt
+10000730,Tåsenveien 43,,,Tåsenveien 43,ECOS,,Sykkel,enkelt
+10000760,Ullern gårdsvei 40,,,Ullern gårdsvei 40,ECOS,,Sykkel,enkelt
+10000790,Ullevålsvn 19,,,Ullevålsvn 19,ECOS,,Sykkel,enkelt
+10000820,Vaterlands bro,,,Vaterlands bro,ECOS,,Sykkel,enkelt
+10000850,Vækerøveien 146A,,,Vækerøveien 146A,ECOS,,Sykkel,enkelt
+10000880,Waldemar Thranes gt,,,Waldemar Thranes gt,ECOS,,Sykkel,enkelt
+10000910,Wergelandsveien,,,Wergelandsveien,ECOS,,Sykkel,enkelt
+10000940,Åkebergveien 28,,,Åkebergveien 28,ECOS,,Sykkel,enkelt
+10000970,Østensjøvn ved Brynseng,,,Østensjøvn ved Brynseng,ECOS,,Sykkel,enkelt
+10001000,Østensjøvn ved Østensjøvannet,,,Østensjøvn ved Østensjøvannet,ECOS,,Sykkel,enkelt
